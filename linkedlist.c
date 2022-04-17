@@ -1,4 +1,4 @@
-971434#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 struct createNewNode{
     int eid,ename; //eid
